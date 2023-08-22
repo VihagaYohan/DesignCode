@@ -17,6 +17,7 @@
 		15EF1B832A94366500759E9D /* UpdateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EF1B822A94366500759E9D /* UpdateList.swift */; };
 		15EF1B852A943A8E00759E9D /* UpdateDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EF1B842A943A8E00759E9D /* UpdateDetail.swift */; };
 		15EF1B872A943D1C00759E9D /* UpdateStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EF1B862A943D1C00759E9D /* UpdateStore.swift */; };
+		15EF1B892A9440C500759E9D /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EF1B882A9440C500759E9D /* TabBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		15EF1B822A94366500759E9D /* UpdateList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateList.swift; sourceTree = "<group>"; };
 		15EF1B842A943A8E00759E9D /* UpdateDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateDetail.swift; sourceTree = "<group>"; };
 		15EF1B862A943D1C00759E9D /* UpdateStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateStore.swift; sourceTree = "<group>"; };
+		15EF1B882A9440C500759E9D /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				15EF1B822A94366500759E9D /* UpdateList.swift */,
 				15EF1B842A943A8E00759E9D /* UpdateDetail.swift */,
 				15EF1B862A943D1C00759E9D /* UpdateStore.swift */,
+				15EF1B882A9440C500759E9D /* TabBar.swift */,
 				15B10D182A91241F00A21B8B /* Assets.xcassets */,
 				15B10D1A2A91241F00A21B8B /* Preview Content */,
 				1597A36C2A9247CC000612F7 /* Home.swift */,
@@ -155,6 +158,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				15EF1B892A9440C500759E9D /* TabBar.swift in Sources */,
 				15EF1B852A943A8E00759E9D /* UpdateDetail.swift in Sources */,
 				15B10D172A91241E00A21B8B /* ContentView.swift in Sources */,
 				1597A3692A91EC5D000612F7 /* MenuView.swift in Sources */,

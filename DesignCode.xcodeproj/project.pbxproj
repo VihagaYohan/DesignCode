@@ -14,6 +14,7 @@
 		15B10D172A91241E00A21B8B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B10D162A91241E00A21B8B /* ContentView.swift */; };
 		15B10D192A91241F00A21B8B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15B10D182A91241F00A21B8B /* Assets.xcassets */; };
 		15B10D1C2A91241F00A21B8B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15B10D1B2A91241F00A21B8B /* Preview Assets.xcassets */; };
+		15EF1B832A94366500759E9D /* UpdateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EF1B822A94366500759E9D /* UpdateList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		15B10D162A91241E00A21B8B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		15B10D182A91241F00A21B8B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		15B10D1B2A91241F00A21B8B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		15EF1B822A94366500759E9D /* UpdateList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				15B10D142A91241E00A21B8B /* DesignCodeApp.swift */,
 				15B10D162A91241E00A21B8B /* ContentView.swift */,
 				1597A3682A91EC5D000612F7 /* MenuView.swift */,
+				15EF1B822A94366500759E9D /* UpdateList.swift */,
 				15B10D182A91241F00A21B8B /* Assets.xcassets */,
 				15B10D1A2A91241F00A21B8B /* Preview Content */,
 				1597A36C2A9247CC000612F7 /* Home.swift */,
@@ -148,6 +151,7 @@
 			files = (
 				15B10D172A91241E00A21B8B /* ContentView.swift in Sources */,
 				1597A3692A91EC5D000612F7 /* MenuView.swift in Sources */,
+				15EF1B832A94366500759E9D /* UpdateList.swift in Sources */,
 				1597A36D2A9247CC000612F7 /* Home.swift in Sources */,
 				15951B5D2A92F8E4000FF2C0 /* HomeView.swift in Sources */,
 				15B10D152A91241E00A21B8B /* DesignCodeApp.swift in Sources */,
